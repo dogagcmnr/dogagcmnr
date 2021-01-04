@@ -3,6 +3,7 @@
 ![https://t.me/dogagocmener](https://img.shields.io/badge/telegram-dogagocmener-blue)
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=github.com/dogagcmnr)
 
+<p align="center">
 <a href="https://github.com/dogagcmnr/">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=dogagcmnr&show_icons=true&theme=vue-dark" />
 </a><br><br>
