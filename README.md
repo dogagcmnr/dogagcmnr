@@ -3,11 +3,10 @@
 ![https://t.me/dogagocmener](https://img.shields.io/badge/telegram-dogagocmener-blue)
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=github.com/dogagcmnr)
 
+<a href="https://github.com/dogagcmnr/"><br>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=dogagcmnr&show_icons=true&theme=vue-dark" />
+</a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dogagcmnr&layout=compact&theme=vue-dark" /><br><br>
 <p align="center">
-  <a href="https://github.com/dogagcmnr/"><br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dogagcmnr&show_icons=true&theme=vue-dark" />
-</a><br><br>
-
 <a href="https://github.com/dogagcmnr/neobux-bot">
 <img align="center" alt="Doga's Github Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=dogagcmnr&repo=neobux-bot&show_owner=true&theme=vue-dark" /></a><br><br>
 <a href="https://github.com/dogagcmnr/TranslateJSONDump">
@@ -15,7 +14,5 @@
 </a><br><br>
 <a href="https://github.com/dogagcmnr/letra-extension">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dogagcmnr&repo=letra-extension&show_owner=true&theme=vue-dark" />
-</a><br><br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dogagcmnr&layout=compact&theme=vue-dark" />
-</p>
+</a></p>
 
