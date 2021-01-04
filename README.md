@@ -15,7 +15,7 @@
 </a><br><br>
 <a href="https://github.com/dogagcmnr/letra-extension">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dogagcmnr&repo=letra-extension&show_owner=true&theme=vue-dark" />
-</a><br>
+</a><br><br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dogagcmnr&layout=compact&theme=vue-dark" />
 </p>
 
