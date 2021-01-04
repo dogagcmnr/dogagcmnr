@@ -4,9 +4,11 @@
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=github.com/dogagcmnr)
 
 <a href="https://github.com/dogagcmnr/">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=dogagcmnr&show_icons=true&theme=vue-dark" />
-</a><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dogagcmnr&layout=compact&theme=vue-dark" />
-<p align="center"><br><br><br>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=dogagcmnr&show_icons=true&theme=vue-dark" />
+</a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dogagcmnr&layout=compact&theme=vue-dark" />
+<p align="center"><br><br>
+ 
 <a href="https://github.com/dogagcmnr/neobux-bot">
 <img align="center" alt="Doga's Github Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=dogagcmnr&repo=neobux-bot&show_owner=true&theme=vue-dark" /></a><br><br>
 <a href="https://github.com/dogagcmnr/TranslateJSONDump">
