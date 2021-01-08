@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/dogagcmnr/dogagcmnr/4e1bd89b2f8b8144d6cfcb03dfdf9e6545e70f0c/hero-01.svg" alt="Hero image">
 
-![https://t.me/dogagocmener](https://img.shields.io/badge/telegram-dogagocmener-blue)
+<a href="https://t.me/dogagocmener"><img src="https://img.shields.io/badge/telegram-dogagocmener-blue" alt="Hero image"></a>
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=github.com/dogagcmnr)
 
 <p align="center">
