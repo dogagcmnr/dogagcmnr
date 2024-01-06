@@ -6,7 +6,7 @@ My name is [Doga](https://www.github.com/dogagcmnr), i'm a senior data analyst s
 🌱 - Currently learning JS / Go  
 😊 - Looking for build something meaningful 
 
-> Shoot the moon, even if you miss, you'll land among the stars.
-> <br> - Oscar Wilde
+> All that is gold does not glitter, not all those who wander are lost
+> <br> - J.R.R. Tolkien
 >
 [LinkedIn](https://www.linkedin.com/in/dogagocmener/)
